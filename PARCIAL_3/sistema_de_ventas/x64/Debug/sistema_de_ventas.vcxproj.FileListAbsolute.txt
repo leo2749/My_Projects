@@ -1,0 +1,3 @@
+C:\Users\Alexis\source\repos\parcial 3\sistema_de_ventas\x64\Debug\sistema_de_ventas.exe
+C:\Users\Alexis\source\repos\PARCIAL_3\sistema_de_ventas\x64\Debug\sistema_de_ventas.exe
+C:\Users\leonel\Downloads\PARCIAL_3\sistema_de_ventas\x64\Debug\sistema_de_ventas.exe

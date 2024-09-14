@@ -1,0 +1,8 @@
+-----------------------
+Nombre: Berserk| Cantidad vendida: 1| Precio: $1500
+Nombre: leo| Cantidad vendida: 1| Precio: $25
+Nombre: leo| Cantidad vendida: 1| Precio: $25
+Nombre: Berserk| Cantidad vendida: 2| Precio: $3000
+TOTAL DE VENTAS DEL DIA : $4550
+LAS VENTAS EN TARJETA SON: $3025
+LAS VENTAS EN EFECTIVO SON: $1525

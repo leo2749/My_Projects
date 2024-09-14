@@ -1,0 +1,4 @@
+C:\Users\Alexis\source\repos\PARCIAL_3_LOGIN\x64\Debug\PARCIAL_3_LOGIN.exe
+C:\Users\leonel\Desktop\PARCIAL_3_LOGIN\x64\Debug\PARCIAL_3_LOGIN.exe
+C:\Users\Alexis\source\repos\parcial 3\PARCIAL_3_LOGIN\x64\Debug\PARCIAL_3_LOGIN.exe
+C:\Users\Alexis\source\repos\PARCIAL_3\PARCIAL_3_LOGIN\x64\Debug\PARCIAL_3_LOGIN.exe
